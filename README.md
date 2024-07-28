@@ -19,4 +19,4 @@ Using Linux in ethical hacking not only provides access to a wealth of tools but
 |  |
 |  |
 
-So let's start with our [First Chapter]()
+So let's start with our [First Chapter](https://github.com/codebyjsa/Basics-of-Ethical-Hacking/blob/main/eth02.md)
