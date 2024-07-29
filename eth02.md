@@ -38,4 +38,4 @@ After it is installed, insert your pendrive in USB port of your PC, then click t
 
 ![image](https://github.com/user-attachments/assets/9d45089f-5947-49bb-98a8-a9e592fd7f07)
 
-Another dialog box will open, then 
+Another dialog box will open, then the device drop down menu and where you will get the option of 
